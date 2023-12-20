@@ -1,6 +1,6 @@
-# Todo_Application
+# BlinkList
 
-Developed a Todo application using the powerful combination of Spring Boot, H2 database, Spring Data JPA, and Hibernate. 
+Developed a BlinkList application using the powerful combination of Spring Boot, H2 database, Spring Data JPA, and Hibernate. 
 Through this project, I gained hands-on experience in building a robust web application with CRUD (Create, Read, Update, Delete) functionality.
 
 Using Spring Boot, I set up the application quickly, focusing more on business logic rather than tedious configuration. 
